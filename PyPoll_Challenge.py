@@ -19,7 +19,6 @@ candidate_votes = {}
 county_options = []
 county_votes = {}
 
-
 # Track the winning candidate, vote count and percentage
 winning_candidate = ""
 winning_count = 0
@@ -46,10 +45,10 @@ with open(file_to_load) as election_data:
         # Get the candidate name from each row.
         candidate_name = row[2]
 
-        # 3: Extract the county name from each row.
+        # Extract the county name from each row.
         county_name = row[1]
 
-        # If the candidate does not match any existing candidate add it to
+        # If the candidate does not match any existing candidate, add it to
         # the candidate list
         if candidate_name not in candidate_options:
 
