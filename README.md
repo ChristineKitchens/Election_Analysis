@@ -73,8 +73,8 @@ with open(file_to_load) as election_data:
             # Add the candidate name to the candidate list.
             party_options.append(party_name)
 
-            # And begin tracking that candidate's voter count.
-            candidate_votes[candidate_name] = 0
+            # And begin tracking that party's voter count.
+            party_votes[party_name] = 0
 
         # Add a vote to that party's count
         party_votes[party_name] += 1
