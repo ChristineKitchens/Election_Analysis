@@ -12,7 +12,7 @@ A Colorado Board of Elections employee issued the following tasks to complete th
 7. Calculate the percentage of votes each candidate won.
 8. Determine the winner of the election based on the popular vote.
 
-The [deliverable script](PyPoll_Challenge.py) prints the requested information to the command line as well as to a [separate text file](https://github.com/InRegards2Pluto/Election-Analysis/blob/56599655d374ecfadc58948ff76e17fa9736c1b8/analysis/election_analysis.txt).
+The [deliverable script](https://github.com/InRegards2Pluto/Election-Analysis/blob/e58910e5ec325e8f443971d2382e30c604d6b630/PyPoll_Challenge.py) prints the requested information to the command line as well as to a [separate text file](https://github.com/InRegards2Pluto/Election-Analysis/blob/56599655d374ecfadc58948ff76e17fa9736c1b8/analysis/election_analysis.txt).
 
 ## Election-Audit Results
 
@@ -91,7 +91,8 @@ print(heapq.nlargest(3, candidate_votes, key=candidate_votes.get))
 
 ## Resources
 - Data Source: [election_results.csv](https://github.com/InRegards2Pluto/Election-Analysis/blob/56599655d374ecfadc58948ff76e17fa9736c1b8/Resources/election_results.csv)
-- Script: [PyPoll_Challenge](PyPoll_Challenge.py)
+- Script: [PyPoll_Challenge](https://github.com/InRegards2Pluto/Election-Analysis/blob/e58910e5ec325e8f443971d2382e30c604d6b630/PyPoll_Challenge.py)
+- Output .txt file: [election_analysis.txt](https://github.com/InRegards2Pluto/Election-Analysis/blob/56599655d374ecfadc58948ff76e17fa9736c1b8/analysis/election_analysis.txt).
 - Software: Python 3.6.1, Visual Studio Code, 1.38.1
 
 
