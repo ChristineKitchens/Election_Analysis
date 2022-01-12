@@ -90,7 +90,7 @@ print(heapq.nlargest(3, candidate_votes, key=candidate_votes.get))
 ```
 
 ## Resources
-- Data Source: [election_results.csv](Resources\election_results.csv)
+- Data Source: [election_results.csv](https://github.com/InRegards2Pluto/Election-Analysis/blob/56599655d374ecfadc58948ff76e17fa9736c1b8/Resources/election_results.csv)
 - Script: [PyPoll_Challenge](PyPoll_Challenge.py)
 - Software: Python 3.6.1, Visual Studio Code, 1.38.1
 
