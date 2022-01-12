@@ -36,7 +36,7 @@ The [deliverable script](https://github.com/InRegards2Pluto/Election-Analysis/bl
   - Diana DeGette
   - Raymon Anthony Doane
 - The winner of the election is ***Diana DeGette***, who received 73.8% of the vote and 272,892 number of votes
-- A summary of candidate results are listed below:
+- Summary data of candidate results are listed below:
 
 | Candidate  | Percentage of Votes | Total Votes |
 | ------------- | ------------- | ------------- |
